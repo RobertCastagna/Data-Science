@@ -8,8 +8,8 @@ In this course I have gained experience with the following resources:
 - **Python Packages:** 
   - NumPy
   - Pandas
-  - Matplotlib
+  - Matplotlib 
   - Seaborn
-    - Data visualization 
+    - Data Visualization
   - Scikit-Learn
-    - Linear regression, Logistic regression, KNN, Classification reports, Confusion matrix
+    - Machine Learning: Linear regression, Logistic regression, KNN, Classification reports, Confusion matrix
