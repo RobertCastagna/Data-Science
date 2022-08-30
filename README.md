@@ -10,4 +10,4 @@ In this course I have gained experience with the following resources:
   - Pandas
   - Matplotlib
   - Seaborn
-  - Sklearn
+  - Scikit-Learn
