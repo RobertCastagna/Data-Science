@@ -10,4 +10,6 @@ In this course I have gained experience with the following resources:
   - Pandas
   - Matplotlib
   - Seaborn
+    - Data visualization 
   - Scikit-Learn
+    - Linear regression, Logistic regression, KNN, Classification reports, Confusion matrix
